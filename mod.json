@@ -2,9 +2,12 @@
   "RULE_VERSION":"20180724",
   "name": "products-light",
   "apiDependencies": [
-  {
-    "name": "ecom-products"
-  }
-]
+	  {
+	    "name": "ecom-products",
+	    "LINK":[
+	    	{ "name":"detail", "title":"商品详情" } 
+	    ]
+	  }
+	]
 }
 

@@ -1,3 +1,1 @@
-.oxmod-products-light{
-/* CSS */
- }
+.oxmod-products-light>ul{overflow:auto}.oxmod-products-light>ul>li{width:42%;float:left;text-align:center;padding:4%}.oxmod-products-light .mainpic{padding:5px 0}.oxmod-products-light .mainpic>img{width:80px;-webkit-background-size:contain;background-size:contain}.oxmod-products-light .title{font-weight:400;font-size:14px;color:#555;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.oxmod-products-light .subtitle{font-size:11px;font-weight:200;font-style:normal;color:#666;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.oxmod-products-light .bottom{margin-top:5px}.oxmod-products-light .price{color:#e00;font-size:16px;font-style:normal}.oxmod-products-light .price:before{content:'\a5';font-size:.8em}.oxmod-products-light .orig_price{color:#999;font-size:12px;text-decoration:line-through;font-style:normal}.oxmod-products-light .orig_price:before{content:'\a5';font-size:.8em}
